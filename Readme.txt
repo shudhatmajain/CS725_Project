@@ -17,3 +17,6 @@ This will execute the adaboost algorithm, and at the end will give the accuracy 
 Emotion Classification : 
 python convolutional.py
 Executes CNN code for emotion detection in images. Contains code for both binary and multiple emotion classification.
+
+Datasets are available at : 
+https://github.com/shudhatmajain/CS725_Project
